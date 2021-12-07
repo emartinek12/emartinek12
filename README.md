@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello ✋ my name is Emily, and I am currently looking for an opportunity as a Fullstack Developer
 
-<!--
 - 🔭 I’m currently working on a project to help foreigners in Cologne get matched 
     with German speakers who can help them make appointments, translate and accompany 
     them on a volunteer basis
@@ -10,4 +9,3 @@
 - 📫 How to reach me: emily.martinek12@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a phobia of worms
--->
